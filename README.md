@@ -1,1 +1,1 @@
-# for_home_work_21.2
+This is a project for the homework 21.2 while stydying at an online IT school.
