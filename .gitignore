@@ -160,8 +160,8 @@ cython_debug/
 .idea/
 /README.md
 /src/bootstrap_homework.py
-/css/page4.html
-/css/page3.html
-/css/page2.html
-/css/page1.html
-/css/home.html
+/src/page4.html
+/src/page3.html
+/src/page2.html
+/src/page1.html
+/src/home.html
